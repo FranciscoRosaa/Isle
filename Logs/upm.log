@@ -1,0 +1,39 @@
+[2026-10-21T18:29:01.143Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 17732 --ipc-path Unity-Upm-17732 -l 2 --log-file C:\\Users\\franc\\OneDrive\\Desktop\\Isle/Logs/upm.log
+[2026-10-21T18:29:01.185Z][INFO] IPC server started (IPC path=Unity-Upm-17732).
+[2026-10-21T18:29:01.185Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-17732.
+[2026-10-21T18:29:05.777Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:05.806Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:06.018Z][INFO] project:list-packages --> 200 (241 ms)
+[2026-10-21T18:29:06.989Z][INFO] project:list-packages --> 200 (1183 ms)
+[2026-10-21T18:29:07.426Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:07.442Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-21T18:29:07.457Z][INFO] config:project:get-registries --> 200 (16 ms)
+[2026-10-21T18:29:07.484Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-10-21T18:29:07.532Z][INFO] project:list-packages --> 200 (106 ms)
+[2026-10-21T18:29:07.535Z][INFO] project:update-dependencies --> 200 (51 ms)
+[2026-10-21T18:29:07.585Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-10-21T18:29:20.912Z][INFO] project:resolve-packages --> 200 (13327 ms)
+[2026-10-21T18:29:37.268Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:37.339Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:37.517Z][INFO] project:list-packages --> 200 (249 ms)
+[2026-10-21T18:29:37.572Z][INFO] project:list-packages --> 200 (234 ms)
+[2026-10-21T18:29:37.704Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-10-21T18:29:37.710Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-10-21T18:29:40.573Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:40.825Z][INFO] project:list-packages --> 200 (252 ms)
+[2026-10-21T18:29:57.499Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:29:57.671Z][INFO] project:list-packages --> 200 (171 ms)
+[2026-10-21T18:29:59.983Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-21T18:30:01.177Z][INFO] project:list-packages --> 200 (1194 ms)
